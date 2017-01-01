@@ -46,11 +46,6 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
-map ㅂ q
-map ㅈ w
-"map ㅈㅂ wa
-"map ㅂㅁ qa
-
 " remove whitespace on save
 autocmd BufWritePre * StripWhitespace
 
