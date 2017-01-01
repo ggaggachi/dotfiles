@@ -1,0 +1,13 @@
+[core]
+	editor = vim
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[alias]
+	l = log --decorate --graph --all
+	d = difftool
